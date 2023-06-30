@@ -1,0 +1,61 @@
+.fundo{
+    background-color: white;
+    align-items: center;
+    writing-mode: vertical-lr;
+    text-align: center;
+}
+
+.diasdasemana{
+    text-align: center;
+    background-color: rgb(221, 209, 188);
+}
+
+.INTERVALO{
+    text-align: center;
+    background-color: rgb(206, 204, 204);
+}
+
+.artes{
+    text-align: center;
+    background-color: rgb(253, 180, 220);
+}
+
+.CN{
+    text-align: center;
+    background-color: rgb(231, 159, 24);
+}
+
+.carol{
+    text-align: center;
+    background-color: rgb(245, 141, 198);
+}
+
+.PP{
+    text-align: center;
+    background-color: rgb(243, 189, 89) ;
+}
+
+.willian{
+    text-align: center;
+    background-color: rgb(253, 253, 71);
+}
+
+.CH{
+    text-align: center;
+    background-color: rgb(200, 220, 243);
+}
+
+.técnico{
+    text-align: center;
+    background-color: rgb(212, 122, 203);
+}
+
+.PV{
+    text-align: center;
+    background-color: rgb(155, 209, 148);
+}
+
+.livre{
+    text-align: center;
+    background-color: white;
+}
